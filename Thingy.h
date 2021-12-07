@@ -1,7 +1,7 @@
 #ifndef THINGY_H
 #define THINGY_H
 
-#include <Windows.h>
+#include "stdafx.h"
 
 class Thingy {
 public:

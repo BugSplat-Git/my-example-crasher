@@ -1,3 +1,4 @@
+#include "Gadget.h"
 #include "Widget.h"
 #include "FileSystemUtils.h"
 #include <iostream>
@@ -10,5 +11,5 @@ void Widget::Edit(void) {
 
 void Widget::Save(LPCWSTR filePath) {
 	std::cout << "Saving the Widget...\n";
-	FileSystemUtils::Save(filePath, "Widget!");
+	Gadget::Write(filePath, "Widget!");
 }
