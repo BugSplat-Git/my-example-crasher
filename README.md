@@ -1,6 +1,17 @@
-![image](https://github.com/BugSplat-Git/my-example-crasher/assets/2646053/feb69a2b-4c27-4538-becf-63ed3486a12d)# Grouping Crashes
+[![bugsplat-github-banner-basic-outline](https://user-images.githubusercontent.com/20464226/149019306-3186103c-5315-4dad-a499-4fd1df408475.png)](https://bugsplat.com)
+<br/>
+# <div align="center">BugSplat</div> 
+### **<div align="center">Crash and error reporting built for busy developers.</div>**
+<div align="center">
+    <a href="https://twitter.com/BugSplatCo">
+        <img alt="Follow @bugsplatco on Twitter" src="https://img.shields.io/twitter/follow/bugsplatco?label=Follow%20BugSplat&style=social">
+    </a>
+    <a href="https://discord.gg/K4KjjRV5ve">
+        <img alt="Join BugSplat on Discord" src="https://img.shields.io/discord/664965194799251487?label=Join%20Discord&logo=Discord&style=social">
+    </a>
+</div>
 
-## Overview
+# Grouping Crashes
 
 Deciding which crashes your team should focus on can seem daunting. For many applications, it's impossible to investigate every crash. Fortunately, BugSplat automatically groups similar crashes, allowing you to concentrate your efforts on the bugs causing the most instability.
 
